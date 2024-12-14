@@ -1,0 +1,2 @@
+curl localhost:8080/private \
+    -H "X-API-KEY: 1234asdf"
